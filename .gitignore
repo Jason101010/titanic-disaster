@@ -1,0 +1,9 @@
+src/data/*
+!src/data/.gitkeep
+
+.venv/
+__pycache__/
+*.pyc
+.Rhistory
+.RData
+.DS_Store
